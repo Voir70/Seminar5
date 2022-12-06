@@ -1,0 +1,15 @@
+D:\Users\antik\Documents\Seminar5\task01\bin\Debug\net7.0\task01.exe
+D:\Users\antik\Documents\Seminar5\task01\bin\Debug\net7.0\task01.deps.json
+D:\Users\antik\Documents\Seminar5\task01\bin\Debug\net7.0\task01.runtimeconfig.json
+D:\Users\antik\Documents\Seminar5\task01\bin\Debug\net7.0\task01.dll
+D:\Users\antik\Documents\Seminar5\task01\bin\Debug\net7.0\task01.pdb
+D:\Users\antik\Documents\Seminar5\task01\obj\Debug\net7.0\task01.csproj.AssemblyReference.cache
+D:\Users\antik\Documents\Seminar5\task01\obj\Debug\net7.0\task01.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\antik\Documents\Seminar5\task01\obj\Debug\net7.0\task01.AssemblyInfoInputs.cache
+D:\Users\antik\Documents\Seminar5\task01\obj\Debug\net7.0\task01.AssemblyInfo.cs
+D:\Users\antik\Documents\Seminar5\task01\obj\Debug\net7.0\task01.csproj.CoreCompileInputs.cache
+D:\Users\antik\Documents\Seminar5\task01\obj\Debug\net7.0\task01.dll
+D:\Users\antik\Documents\Seminar5\task01\obj\Debug\net7.0\refint\task01.dll
+D:\Users\antik\Documents\Seminar5\task01\obj\Debug\net7.0\task01.pdb
+D:\Users\antik\Documents\Seminar5\task01\obj\Debug\net7.0\task01.genruntimeconfig.cache
+D:\Users\antik\Documents\Seminar5\task01\obj\Debug\net7.0\ref\task01.dll
