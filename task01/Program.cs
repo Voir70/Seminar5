@@ -27,7 +27,7 @@ void PrintArray(int[]array)
     }
     Console.WriteLine();
 }
-//получает сумму положительных элементов
+//получает сумму положительных элементов в массиве.
 int GetPositiveSumm(int[]arr)
 {
     int summ = 0;
@@ -38,7 +38,7 @@ int GetPositiveSumm(int[]arr)
     }
     return summ;
 }
-//получает сумму отрицательных  элементов
+//получает сумму отрицательных  элементов в массиве.
 int GetNegativeSumm(int[]arr)
 {
     int summ = 0;
@@ -50,9 +50,29 @@ int GetNegativeSumm(int[]arr)
     return summ;
 }
 
+(int, int) GetPositiveAndNegativeSumm(int[]array)
+{
+    int positive = 0;
+    int negative = 0;
+
+    for (int i = 0; i < array.Length; i++)
+    {
+        if(array[i] > 0)
+            positive += array[i];
+        else
+            negative += array[i];
+    }
+
+    return (positive, negative);
+}
+
 int[] arr = InitArray(12);
 PrintArray(arr);
 int positiveSumm = GetPositiveSumm(arr);
 int negativeSumm = GetNegativeSumm(arr);
 
-Console.Write($"Сумма положительных: {positiveSumm}. Сумма отрицательных: {negativeSumm} ");
+(int pos, int neg) = GetPositiveAndNegativeSumm(arr);
+
+Console.WriteLine($"Сумма положительных: {positiveSumm}. Сумма отрицательных: {negativeSumm} ");
+
+Console.WriteLine($"Сумма положительных: {pos}. Сумма отрицательных: {neg} ");
