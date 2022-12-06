@@ -1,0 +1,15 @@
+D:\Users\antik\Documents\Seminar5\task02\bin\Debug\net7.0\task02.exe
+D:\Users\antik\Documents\Seminar5\task02\bin\Debug\net7.0\task02.deps.json
+D:\Users\antik\Documents\Seminar5\task02\bin\Debug\net7.0\task02.runtimeconfig.json
+D:\Users\antik\Documents\Seminar5\task02\bin\Debug\net7.0\task02.dll
+D:\Users\antik\Documents\Seminar5\task02\bin\Debug\net7.0\task02.pdb
+D:\Users\antik\Documents\Seminar5\task02\obj\Debug\net7.0\task02.csproj.AssemblyReference.cache
+D:\Users\antik\Documents\Seminar5\task02\obj\Debug\net7.0\task02.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\antik\Documents\Seminar5\task02\obj\Debug\net7.0\task02.AssemblyInfoInputs.cache
+D:\Users\antik\Documents\Seminar5\task02\obj\Debug\net7.0\task02.AssemblyInfo.cs
+D:\Users\antik\Documents\Seminar5\task02\obj\Debug\net7.0\task02.csproj.CoreCompileInputs.cache
+D:\Users\antik\Documents\Seminar5\task02\obj\Debug\net7.0\task02.dll
+D:\Users\antik\Documents\Seminar5\task02\obj\Debug\net7.0\refint\task02.dll
+D:\Users\antik\Documents\Seminar5\task02\obj\Debug\net7.0\task02.pdb
+D:\Users\antik\Documents\Seminar5\task02\obj\Debug\net7.0\task02.genruntimeconfig.cache
+D:\Users\antik\Documents\Seminar5\task02\obj\Debug\net7.0\ref\task02.dll
