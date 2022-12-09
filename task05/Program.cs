@@ -59,7 +59,7 @@ int[] NewArray(int[] arr)
     else len = arr.Length / 2 +1;
 
     int[]array = new int[len];
-    Console.WriteLine(len);
+    //Console.WriteLine(len);
     for (int i = 0; i < len; i++)
     {
         array[i] = arr[i] * arr[arr.Length -1 -i];
